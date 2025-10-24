@@ -7,3 +7,6 @@ Ignore .DS_Store (macOS system files) and *.log(temp log files) so our repo is c
 #Branch Usage
 - author/idea-sprint: for writing/developing zine content.
 - editor/review: for reviewing/editing the author's work
+
+# Layout
+The zine will have sections for layout options
